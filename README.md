@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohail Ahmad</h1>
 <h3 align="center">I'm a software student with a robust skill set in Python coupled with a keen interest in AI, Data Science, and backend development ( Django framework )</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohail342" alt="sohail342" /></a> </p>
+
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/Sohail342/E-commerce-Website)
 
 - 🌱 I’m currently learning **Django ( The web framework for perfectionists with deadlines )**
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail342&show_icons=true&locale=en&layout=compact" alt="sohail342" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail342&show_icons=true&locale=en" alt="sohail342" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail342&" alt="sohail342" /></p>
