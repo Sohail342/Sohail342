@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django ( The web framework for perfectionists with deadlines )**
 
-- 🌱 I’m currently learning **Typescript **
+- 🌱 I’m currently learning **Typescript**
 
 - 🌱 I’m currently working on **<a href="https://github.com/Sohail342/ecommerce-Django" target="blank">E-commerce Django</a>**
 
