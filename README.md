@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently working on **<a href="https://github.com/Sohail342/E-commerce_Django" target="blank">E-commerce Django</a>**
+- 🌱 I’m currently working on **<a href="https://github.com/Sohail342/Installment_App" target="blank">Installment Web App</a>**
 
 - 📫 How to reach me **sohailahmed34280@gmail.com**
 
