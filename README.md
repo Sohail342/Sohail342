@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently working on **<a href="https://github.com/Sohail342/Installment_App" target="blank">Installment Web App</a>**
+- 🌱 I’m currently working on dynamic Installment Management Application which is a web-based platform that simplifies the management of installment plans. It allows users to create customizable repayment schedules tailored to their financial needs, track installment records, monitor due dates, and manage payments efficiently.
 
 - 📫 How to reach me **sohailahmed34280@gmail.com**
 
