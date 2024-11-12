@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohail342" alt="sohail342" /></a> </p>
 
-- 🌱 I’m currently learning **Django REST framework**
+- 🌱 I’m currently learning **Django REST framework (DRF)**
 
 - 🌱 I’m currently learning **JavaScript**
 
