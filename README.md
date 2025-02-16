@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Ahmad</h1>
-<h3 align="center">I'm a software student with a robust skill set in Python coupled with a keen interest in AI, ML, and backend development ( Django framework )</h3>
+<h3 align="center">AI/ML, Backend Dev</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohail342" alt="sohail342" /></a> </p>
 
