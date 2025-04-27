@@ -57,13 +57,6 @@
 </a>
 </p>
 
-<style>
-  p a img:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-  }
-</style>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail342&show_icons=true&locale=en&layout=compact" alt="sohail342" /></p>
