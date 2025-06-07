@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohail342" alt="sohail342" /></a> </p>
 
-- 🌱 I’m currently working on dynamic [Installment Management Application](https://github.com/Sohail342/Full-Stack-Installment-Web-App) which is a web-based platform that simplifies the management of installment plans. It allows users to create customizable repayment schedules tailored to their financial needs, track installment records, monitor due dates, and manage payments efficiently.
+<!-- - 🌱 I’m currently working on dynamic [Installment Management Application](https://github.com/Sohail342/Full-Stack-Installment-Web-App) which is a web-based platform that simplifies the management of installment plans. It allows users to create customizable repayment schedules tailored to their financial needs, track installment records, monitor due dates, and manage payments efficiently. -->
 
 - 📫 How to reach me **sohailahmed34280@gmail.com**
 
