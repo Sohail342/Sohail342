@@ -119,7 +119,7 @@
     <tr>
       <td align="center" width="100">
         <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="65" height="65"/>
+          <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="65" height="65"/>
         </a>
         <br><sub><b>Ubuntu</b></sub>
       </td>
