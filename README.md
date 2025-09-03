@@ -78,10 +78,41 @@
         <br><sub><b>UV</b></sub>
       </td>
       <td align="center" width="100">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/>
+        </a>
+        <br><sub><b>Docker</b></sub>
+      </td>
+      <tr>
+      <td align="center" width="100">
         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="65" height="65"/>
         </a>
         <br><sub><b>Google Cloud</b></sub>
+      </td>
+      <td align="center" width="100">
+        <a href="https://cloud.google.com/run" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" alt="Cloud Run" width="65" height="65"/>
+        </a>
+        <br><sub><b>Cloud Run</b></sub>
+      </td>
+       <td align="center" width="100">
+        <a href="https://cloud.google.com/compute" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Compute Engine" width="65" height="65"/>
+        </a>
+        <br><sub><b>Compute Engine</b></sub>
+      </td>
+       <td align="center" width="100">
+        <a href="https://cloud.google.com/appengine" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-icon.svg" alt="Google App Engine" width="65" height="65"/>
+        </a>
+        <br><sub><b>App Engine</b></sub>
+      </td>
+      <td align="center" width="100">
+        <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer">
+          <img src="https://www.gstatic.com/bricks/image/cf69f322-f5ae-4d81-80e4-3dd008aca174.svg" alt="Vertex AI" width="65" height="65"/>
+        </a>
+        <br><sub><b>Vertex AI</b></sub>
       </td>
     </tr>
     <tr>
@@ -98,12 +129,6 @@
         <br><sub><b>GitHub</b></sub>
       </td>
       <td align="center" width="100">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65"/>
-        </a>
-        <br><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="100">
         <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65"/>
         </a>
@@ -115,15 +140,12 @@
         </a>
         <br><sub><b>Postman</b></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+       <td align="center" width="100">
         <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
           <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="65" height="65"/>
         </a>
         <br><sub><b>Ubuntu</b></sub>
       </td>
-      <td colspan="4"></td>
     </tr>
   </table>
 </div>
