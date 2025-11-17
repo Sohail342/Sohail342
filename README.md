@@ -78,11 +78,11 @@
         <br><sub><b>UV</b></sub>
       </td>
       <td align="center" width="100">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/>
-        </a>
-        <br><sub><b>Docker</b></sub>
-      </td>
+  <a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" width="65" height="65"/>
+  </a>
+  <br><sub><b>Pydantic</b></sub>
+</td>
       <tr>
       <td align="center" width="100">
         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
@@ -146,6 +146,41 @@
         </a>
         <br><sub><b>Ubuntu</b></sub>
       </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/>
+        </a>
+        <br><sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="100">
+  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" width="65" height="65"/>
+  </a>
+  <br><sub><b>Docker Compose</b></sub>
+</td>
+
+<td align="center" width="100">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="65" height="65"/>
+  </a>
+  <br><sub><b>Sklearn</b></sub>
+</td>
+
+<td align="center" width="100">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
+  </a>
+  <br><sub><b>NumPy</b></sub>
+</td>
+
+<td align="center" width="100">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
+  </a>
+  <br><sub><b>Pandas</b></sub>
+</td>
     </tr>
   </table>
 </div>
