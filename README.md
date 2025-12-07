@@ -185,9 +185,4 @@
   </table>
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail342&show_icons=true&locale=en&layout=compact" alt="sohail342" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail342&show_icons=true&locale=en" alt="sohail342" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail342&" alt="sohail342" /></p>
