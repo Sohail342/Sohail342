@@ -124,27 +124,13 @@
         </a>
         <br><sub><b>GitHub</b></sub>
       </td>
-      <td align="center" width="100">
-        <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65"/>
-        </a>
-        <br><sub><b>Nginx</b></sub>
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65"/>
-        </a>
-        <br><sub><b>Postman</b></sub>
-      </td>
        <td align="center" width="100">
         <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
           <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="65" height="65"/>
         </a>
         <br><sub><b>Ubuntu</b></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+       <td align="center" width="100">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/>
         </a>
@@ -156,27 +142,6 @@
   </a>
   <br><sub><b>Docker Compose</b></sub>
 </td>
-
-<td align="center" width="100">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="65" height="65"/>
-  </a>
-  <br><sub><b>Sklearn</b></sub>
-</td>
-
-<td align="center" width="100">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
-  </a>
-  <br><sub><b>NumPy</b></sub>
-</td>
-
-<td align="center" width="100">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
-  </a>
-  <br><sub><b>Pandas</b></sub>
-</td>
-    </tr>
+    
   </table>
 </div>
